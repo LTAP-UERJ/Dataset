@@ -1,0 +1,20 @@
+Data Usage and Citation
+If you use this data or code in any research, publication, or project, we kindly request that you cite the following article:
+
+Citation:
+Simões, P. H. C., Martins, A. M. B., Oliveira, M. F., Siqueira, J. C., Luna, A. S., & Pinto, L. (2026). Coupled models for food fraud evaluation of unripe banana flour: Enhanced prediction with XGBoost and variable importance assessed by SHAP. Food Control, 183, 111936.
+
+Link:
+https://doi.org/10.1016/j.foodcont.2025.111936
+
+Proper citation ensures that the original creators are acknowledged and helps support the continued development and sharing of resources like this.
+
+Disclaimer:
+The data and code provided in this repository are for informational and research purposes only. NO WARRANTY is provided.
+
+NO WARRANTY: The entire risk as to the quality and performance of the data and associated code is with you. We make no warranties, express or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose.
+
+LIMITATION OF LIABILITY: In no event shall the author or contributors be liable for any damages, including, without limitation, lost profits, lost savings, or other incidental or consequential damages arising out of the use or inability to use the data or code, even if the author has been advised of the possibility of such damages.
+
+By using this data and code, you agree to the terms of this disclaimer. You are solely responsible for ensuring that your use of the data complies with all applicable laws and regulations.
+
